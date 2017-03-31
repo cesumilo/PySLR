@@ -13,8 +13,13 @@ I've tested this little regression on a traditional set of data about House Sale
 # Sample of 100 examples
 
 ![Visualization of Data (Sample of 100 points)](visualize_data.png)
+
 > Visualization of Data
+
 ![Visualization of Normalized Data (Sample of 100 points)](visualize_normalized_data.png)
+
 > Visualization of Normalized Data
+
 ![Fitted line on Normalized Data (Sample of 100 points)](fitted_line.png)
+
 > Fitted line on Normalized Data
